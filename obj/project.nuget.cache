@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c4FiVJF9GbP6HMmF1v1hvChZcRUKrNwJ1XTffsEUimoSdDf8TK8qamz3R+2Y3GTZ5GvLLRHvC79gy7fo7YX+zw==",
+  "dgSpecHash": "mCYmsiY8C3ko+gF5TaJ8dzLWmsemcna8jNJCEz1AuGUd/fON7hkCjKi6Yl/whiZ3+lmWo4gvznzKR2HB38EJBw==",
   "success": true,
-  "projectFilePath": "D:\\CICDDemoProj\\CheckCICDDemo\\CheckCICDDemo.csproj",
+  "projectFilePath": "C:\\Users\\Shantanu.patil\\Assignments_All\\Practice_Projects_DotnetCore\\DeploymentDemo\\CheckCICDDemo\\CheckCICDDemo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

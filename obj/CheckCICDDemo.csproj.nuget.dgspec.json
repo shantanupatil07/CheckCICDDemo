@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CICDDemoProj\\CheckCICDDemo\\CheckCICDDemo.csproj": {}
+    "C:\\Users\\Shantanu.patil\\Assignments_All\\Practice_Projects_DotnetCore\\DeploymentDemo\\CheckCICDDemo\\CheckCICDDemo.csproj": {}
   },
   "projects": {
-    "D:\\CICDDemoProj\\CheckCICDDemo\\CheckCICDDemo.csproj": {
+    "C:\\Users\\Shantanu.patil\\Assignments_All\\Practice_Projects_DotnetCore\\DeploymentDemo\\CheckCICDDemo\\CheckCICDDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CICDDemoProj\\CheckCICDDemo\\CheckCICDDemo.csproj",
+        "projectUniqueName": "C:\\Users\\Shantanu.patil\\Assignments_All\\Practice_Projects_DotnetCore\\DeploymentDemo\\CheckCICDDemo\\CheckCICDDemo.csproj",
         "projectName": "CheckCICDDemo",
-        "projectPath": "D:\\CICDDemoProj\\CheckCICDDemo\\CheckCICDDemo.csproj",
-        "packagesPath": "C:\\Users\\shant\\.nuget\\packages\\",
-        "outputPath": "D:\\CICDDemoProj\\CheckCICDDemo\\obj\\",
+        "projectPath": "C:\\Users\\Shantanu.patil\\Assignments_All\\Practice_Projects_DotnetCore\\DeploymentDemo\\CheckCICDDemo\\CheckCICDDemo.csproj",
+        "packagesPath": "C:\\Users\\Shantanu.patil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Shantanu.patil\\Assignments_All\\Practice_Projects_DotnetCore\\DeploymentDemo\\CheckCICDDemo\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\shant\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Shantanu.patil\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
